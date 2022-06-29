@@ -1,0 +1,114 @@
+[
+ {
+  "id": "100",
+  "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601352433i/15823480._UY600_SS600_.jpg",
+  "BookName": "Anna Karenina by Leo Tolstoy (1878)",
+  "PublishedYear": 1878,
+  "AuthorOrPublisherName": " The Russian Messenger",
+  "NoOfCopies": 120
+ },
+ {
+  "id": "101",
+  "img": "https://i.pinimg.com/736x/72/ce/d8/72ced824cf2c54ff4f64b3ed3f6c8cc3--classic-books-music-books.jpg",
+  "BookName": "To Kill a Mockingbird by Harper Lee (1960)",
+  "PublishedYear": 1960,
+  "AuthorOrPublisherName": "Herper Lee",
+  "NoOfCopies": 160
+ },
+ {
+  "id": "102",
+  "img": "https://images-na.ssl-images-amazon.com/images/I/71weWWXM4XL.jpg",
+  "BookName": "Where the Sidewalk Ends by Shel Silverstein (1974)",
+  "PublishedYear": 1974,
+  "AuthorOrPublisherName": "Shel Silverstein",
+  "NoOfCopies": 220
+ },
+ {
+  "id": "103",
+  "img": "https://images-na.ssl-images-amazon.com/images/I/81QckmGleYL.jpg",
+  "BookName": "The Shining by Stephen King (1977)",
+  "PublishedYear": 1977,
+  "AuthorOrPublisherName": "Stephen King",
+  "NoOfCopies": 280
+ },
+ {
+  "id": "104",
+  "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429239923i/581811._UY475_SS475_.jpg",
+  "BookName": "Valley of the Dolls by Jacqueline Susann (1966)",
+  "PublishedYear": 1966,
+  "AuthorOrPublisherName": "Jacqueline Susann",
+  "NoOfCopies": 190
+ },
+ {
+  "id": "105",
+  "img": "https://images-na.ssl-images-amazon.com/images/I/81G2R0luQJL.jpg",
+  "BookName": "The Little Prince by Antoine de Saint-Exupéry (1943)",
+  "PublishedYear": 1943,
+  "AuthorOrPublisherName": "Antoine de Saint-Exupéry",
+   "NoOfCopies": 150
+ },
+ {
+  "id": "106",
+  "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578028274i/38447._UY500_SS500_.jpg",
+  "BookName": "The Handmaid’s Tale by Margaret Atwood (1985)",
+  "PublishedYear": 1985,
+  "AuthorOrPublisherName": "Margaret Atwood",
+  "NoOfCopies": 200
+ },
+ {
+  "id": "107",
+  "img": "https://upload.wikimedia.org/wikipedia/en/8/8e/The_Fellowship_of_the_Ring_cover.gif",
+  "BookName": "The Fellowship of the Ring by J.R.R. Tolkien (1954)",
+  "PublishedYear": 1954,
+  "AuthorOrPublisherName": "J.R.R. Tolkien",
+  "NoOfCopies": 300
+ },
+ {
+  "id": "108",
+  "img": "https://www.madeleinelengle.com/wp-content/uploads/2017/10/WIT-Trade-Paperback.jpg",
+  "BookName": "A Wrinkle in Time by Madeleine L’Engle (1962)",
+  "PublishedYear": 1962,
+  "AuthorOrPublisherName": "Madeleine L’Engle",
+  "NoOfCopies": 250
+ },
+ {
+  "id": "109",
+  "img": "https://m.media-amazon.com/images/I/51oQBC68VSL.jpg",
+  "BookName": "Pride and Prejudice by Jane Austen (1813)",
+  "PublishedYear": 1813,
+  "AuthorOrPublisherName": "Jane Austen ",
+  "NoOfCopies": 180
+ },
+ {
+  "id": "110",
+  "img": "https://images-na.ssl-images-amazon.com/images/I/910SVO+IyfL.jpg",
+  "BookName": "All the President’s Men by Bob Woodward and Carl Bernstein (1974)",
+  "PublishedYear": 1974,
+  "AuthorOrPublisherName": "Bob Woodward and Carl Bernstein",
+  "NoOfCopies": 90
+ },
+ {
+  "id": "111",
+  "img": "https://images-na.ssl-images-amazon.com/images/I/61nTspM+BYL.jpg",
+  "BookName": "Man’s Search for Meaning by Vikt E. Frankl (1946)",
+  "PublishedYear": 1946,
+  "AuthorOrPublisherName": "Vikt E. Frankl ",
+  "NoOfCopies": 1000
+ },
+ {
+  "id": "112",
+  "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632283781l/6149._SY475_.jpg",
+  "BookName": "Beloved by Toni Mrison (1987)",
+  "PublishedYear": 1987,
+  "AuthorOrPublisherName": "Toni Mrison",
+  "NoOfCopies": 110
+ },
+ {
+  "id": "113",
+  "img": "https://images-eu.ssl-images-amazon.com/images/I/41GpHh-5KFL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+  "BookName": "In Cold Blood by Truman Capote (1965)",
+  "PublishedYear": 1965,
+  "AuthorOrPublisherName": "Truman Capote",
+  "NoOfCopies": 120
+ }
+]
